@@ -1,5 +1,3 @@
-# Project Name
-
 This project encompasses various neural network architectures for natural language processing tasks.
 
 ## Section 1: RNN Implementation
